@@ -93,6 +93,5 @@ corrplot(genus.feed.cor_high.corr,
          tl.col = "black",
          tl.srt = 90,
          tl.cex = 3, 
-         cl.cex = 3, 
-         col = viridis::viridis(100))
+         cl.cex = 3)
 # dev.off()
